@@ -6,7 +6,9 @@ This is the Messages module for [**NEMP Server**](https://github.com/libersoft-o
 
 This module is for sending messages.
 
-If you just want to get your free NEMP mailbox hosted on our server, please navigate to: **https://nemp.io**
+If you just want to get your free NEMP mailbox hosted on our server, please navigate to:
+
+[![NEMP.io](https://raw.githubusercontent.com/libersoft-org/nemp-documentation/main/logo.png)](https://nemp.io)
 
 ## Installation
 
