@@ -1,5 +1,7 @@
 # NEMP Server Messages module
 
+[![Created Badge](https://badges.pufler.dev/created/libersoft-org/nemp-server-module-messages)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/nemp-server-module-messages)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/nemp-server-module-messages)](https://badges.pufler.dev)
+
 This is the Messages module for [**NEMP Server**](https://github.com/libersoft-org/nemp-server/).
 
 This module is for sending messages.
